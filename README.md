@@ -1,1 +1,0 @@
-This repository contains the source code for my website (https://xylar.github.io/).  It was forked from the 'Jekyll Now' project and copied heavily from Jeremy Fyke (https://github.com/JeremyFyke/JeremyFyke.github.io).

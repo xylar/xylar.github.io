@@ -10,7 +10,15 @@ Please contact me for PDF copies if required.
 
 ## Published and Accepted Papers
 
-R. Reese, T. Albrecht, M. Mengel, **X. Asay-Davis**, and R. Winkelmann (2018): [Antarctic sub-shelf melt rates via PICO](https://www.the-cryosphere-discuss.net/tc-2017-70/), *The Cryosphere*, accepted.
+Hoffman, M. J., **X. Asay-Davis**, S. Price, J. Fyke, and M. Perego. (2019). [Effect of subshelf melt variability on sea level rise contribution from Thwaites Glacier, Antarctica](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019JF005155). *JGR: Earth Surface*, 124.
+
+Golaz, J. C., P. M. Caldwell, L. P. Van Roekel, M. R. Petersen et al. (2019). [The DOE E3SM coupled model version 1: Overview and evaluation at standard resolution](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018MS001603). *JAMES*, 11, 2089--2129.
+
+Petersen, M., **X. Asay-Davis**, A. Berres, D. Comeau, N. Feige, D. Jacobsen, P. Jones, M. Maltrud, T. Ringler, G. Streletz, A. Turner, L. Van Roekel, M. Veneziani, J. Wolfe, P. Wolfram and J. Woodring. (2018). [An evaluation of the ocean and sea ice climate of E3SM using MPAS and interannual CORE-II forcing](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018MS001373).  *JAMES*, 11, 1438-1458.
+
+Pattyn, F., C. Ritz, E. Hanna, **X. Asay-Davis**, R. DeConto, G. Durand, L. Favier, et al. (2018). [The Greenland and Antarctic Ice Sheets under 1.5&deg;C Global Warming](https://www.nature.com/articles/s41558-018-0305-8). *Nature Climate Change*, November, 8, 1053-1061.
+
+R. Reese, T. Albrecht, M. Mengel, **X. Asay-Davis**, and R. Winkelmann (2018): [Antarctic sub-shelf melt rates via PICO](https://www.the-cryosphere.net/12/1969/2018/tc-12-1969-2018.html), *The Cryosphere*, 12(6), 1969-1985.
 
 **X. S. Asay-Davis**, N. C. Jourdain, Y. Nakayama (2017). ([Developments in Simulating and Parameterizing Interactions Between the Southern Ocean and the Antarctic Ice Sheet](https://link.springer.com/article/10.1007/s40641-017-0071-0). *Current Climate Change Reports* 3(4), 316-329. 
 

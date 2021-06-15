@@ -10,6 +10,24 @@ Please contact me for PDF copies if required.
 
 ## Published and Accepted Papers
 
+Edwards, T. L., S. Nowicki, B. Marzeion, R. Hock, H. Goelzer, H. Seroussi, N. C. Jourdain, et al. (2021). [Projected Land Ice Contributions to Twenty-First-Century Sea Level Rise](https://doi.org/10.1038/s41586-021-03302-y). *Nature* 593(7857), 74--82.
+
+Lipscomb, W. H., G. R. Leguy, N. C. Jourdain, **X. Asay-Davis**, H. Seroussi, and S. Nowicki (2021). [ISMIP6-Based Projections of Ocean-Forced Antarctic Ice Sheet Evolution Using the Community Ice Sheet Model](https://doi.org/10.5194/tc-15-633-2021). *The Cryosphere* 15(2), 633-61.
+
+Cornford, S.L., H Seroussi, **X. S. Asay-Davis**, G. H. Gudmundsson, R. Arthern, C. Borstad, J. Christmann, et al. (2020). [Results of the Third Marine Ice Sheet Model Intercomparison Project (MISMIP+)](https://doi.org/10.5194/tc-14-2283-2020). *The Cryosphere* 14, 2283-2301.
+
+Gwyther, D. E., K. Kusahara, **X. S. Asay-Davis**, M. S. Dinniman, and B. K. Galton-Fenzi (2020). [Vertical Processes and Resolution Impact Ice Shelf Basal Melting: A Multi-Model Study](https://doi.org/10.1016/j.ocemod.2020.101569). *Ocean Modelling* 147, 101569.
+
+Jeong, H., **X. S. Asay-Davis**, A. K. Turner, D. S. Comeau, S. F. Price, R. P. Abernathey, M. Veneziani, et al. (2020). [Impacts of Ice-Shelf Melting on Water-Mass Transformation in the Southern Ocean from E3SM Simulations](https://doi.org/10.1175/JCLI-D-19-0683.1). *Journal of Climate* 33(13), 5787-5807.
+
+Jourdain, N. C., **X. Asay-Davis**, T. Hattermann, F. Straneo, H. Seroussi, C. M. Little, and S. Nowicki (2020). [A Protocol for Calculating Basal Melt Rates in the ISMIP6 Antarctic Ice Sheet Projections](https://doi.org/10.5194/tc-14-3111-2020). *The Cryosphere* 14(9), 3111-34.
+
+Nowicki, S., H. Goelzer, H. Seroussi, A. J. Payne, W. H. Lipscomb, A. Abe-Ouchi, C. Agosta, et al. (2020). [Experimental Protocol for Sea Level Projections from ISMIP6 Stand-Alone Ice Sheet Models](https://doi.org/10.5194/tc-14-2331-2020). *The Cryosphere* 14(7), 2331-68. 
+
+Seroussi, H., S. Nowicki, A. J. Payne, H. Goelzer, W. H. Lipscomb, A. Abe-Ouchi, C. Agosta, et al. (2020). [ISMIP6 Antarctica: A Multi-Model Ensemble of the Antarctic Ice Sheet Evolution over the 21st Century](https://doi.org/10.5194/tc-14-3033-2020). *The Cryosphere* 14(9), 3033-70.
+
+Zhang, T, S. F. Price, M. J. Hoffman, M. Perego, and **X. Asay-Davis**. [Diagnosing the Sensitivity of Grounding-Line Flux to Changes in Sub-Ice-Shelf Melting](https://doi.org/10.5194/tc-14-3407-2020). *The Cryosphere* 14(10), 3407-24.
+
 Hoffman, M. J., **X. Asay-Davis**, S. Price, J. Fyke, and M. Perego. (2019). [Effect of subshelf melt variability on sea level rise contribution from Thwaites Glacier, Antarctica](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019JF005155). *JGR: Earth Surface*, 124.
 
 Golaz, J. C., P. M. Caldwell, L. P. Van Roekel, M. R. Petersen et al. (2019). [The DOE E3SM coupled model version 1: Overview and evaluation at standard resolution](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018MS001603). *JAMES*, 11, 2089--2129.

@@ -26,7 +26,7 @@ Nowicki, S., H. Goelzer, H. Seroussi, A. J. Payne, W. H. Lipscomb, A. Abe-Ouchi,
 
 Seroussi, H., S. Nowicki, A. J. Payne, H. Goelzer, W. H. Lipscomb, A. Abe-Ouchi, C. Agosta, et al. (2020). [ISMIP6 Antarctica: A Multi-Model Ensemble of the Antarctic Ice Sheet Evolution over the 21st Century](https://doi.org/10.5194/tc-14-3033-2020). *The Cryosphere* 14(9), 3033-70.
 
-Zhang, T, S. F. Price, M. J. Hoffman, M. Perego, and **X. Asay-Davis**. [Diagnosing the Sensitivity of Grounding-Line Flux to Changes in Sub-Ice-Shelf Melting](https://doi.org/10.5194/tc-14-3407-2020). *The Cryosphere* 14(10), 3407-24.
+Zhang, T, S. F. Price, M. J. Hoffman, M. Perego, and **X. Asay-Davis** (2020). [Diagnosing the Sensitivity of Grounding-Line Flux to Changes in Sub-Ice-Shelf Melting](https://doi.org/10.5194/tc-14-3407-2020). *The Cryosphere* 14(10), 3407-24.
 
 Hoffman, M. J., **X. Asay-Davis**, S. Price, J. Fyke, and M. Perego. (2019). [Effect of subshelf melt variability on sea level rise contribution from Thwaites Glacier, Antarctica](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019JF005155). *JGR: Earth Surface*, 124.
 

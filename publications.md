@@ -8,55 +8,58 @@ permalink: /publications/
 
 Please contact me for PDF copies if required.
 
-## Published and Accepted Papers
+## Recent Publications
 
-Edwards, T. L., S. Nowicki, B. Marzeion, R. Hock, H. Goelzer, H. Seroussi, N. C. Jourdain, et al. (2021). [Projected Land Ice Contributions to Twenty-First-Century Sea Level Rise](https://doi.org/10.1038/s41586-021-03302-y). *Nature* 593(7857), 74--82.
+Va{\v{n}}kov{\'a}, I., Asay-Davis, X., Branecky Begeman, C., Comeau, D., Hager, A., Hoffman, M., Price, S. F., et al. (2025). [Subglacial discharge effects on basal melting of a rotating, idealized ice shelf](#). *The Cryosphere* 19, 507--523.
 
-Lipscomb, W. H., G. R. Leguy, N. C. Jourdain, **X. Asay-Davis**, H. Seroussi, and S. Nowicki (2021). [ISMIP6-Based Projections of Ocean-Forced Antarctic Ice Sheet Evolution Using the Community Ice Sheet Model](https://doi.org/10.5194/tc-15-633-2021). *The Cryosphere* 15(2), 633-61.
+Hoffman, M. J., Branecky Begeman, C., Asay-Davis, X. S., Comeau, D., Barthel, A., Price, S. F., Wolfe, J. D. (2024). [Ice-shelf freshwater triggers for the Filchner--Ronne Ice Shelf melt tipping point in a global ocean--sea-ice model](#). *The Cryosphere* 18, 2917--2937.
 
-Cornford, S.L., H Seroussi, **X. S. Asay-Davis**, G. H. Gudmundsson, R. Arthern, C. Borstad, J. Christmann, et al. (2020). [Results of the Third Marine Ice Sheet Model Intercomparison Project (MISMIP+)](https://doi.org/10.5194/tc-14-2283-2020). *The Cryosphere* 14, 2283-2301.
+Seroussi, H., Verjans, V., Nowicki, S., Payne, A. J., Goelzer, H., Lipscomb, W. H., Abe-Ouchi, A., et al. (2023). [Insights into the vulnerability of Antarctic glaciers from the ISMIP6 ice sheet model ensemble and associated uncertainty](#). *The Cryosphere* 17, 5197--5217.
 
-Gwyther, D. E., K. Kusahara, **X. S. Asay-Davis**, M. S. Dinniman, and B. K. Galton-Fenzi (2020). [Vertical Processes and Resolution Impact Ice Shelf Basal Melting: A Multi-Model Study](https://doi.org/10.1016/j.ocemod.2020.101569). *Ocean Modelling* 147, 101569.
+Comeau, D., Asay-Davis, X. S., Begeman, C. B., Hoffman, M. J., Lin, W., Petersen, M. R., Price, S. F., et al. (2022). [The DOE E3SM v1. 2 cryosphere configuration: Description and simulated Antarctic ice-shelf basal melting](#). *Journal of Advances in Modeling Earth Systems* 14, e2021MS002468.
 
-Jeong, H., **X. S. Asay-Davis**, A. K. Turner, D. S. Comeau, S. F. Price, R. P. Abernathey, M. Veneziani, et al. (2020). [Impacts of Ice-Shelf Melting on Water-Mass Transformation in the Southern Ocean from E3SM Simulations](https://doi.org/10.1175/JCLI-D-19-0683.1). *Journal of Climate* 33(13), 5787-5807.
+Zhang, C., Golaz, J., Forsyth, R., Vo, T., Xie, S., Shaheen, Z., Potter, G. L., et al. (2022). [The E3SM Diagnostics Package (E3SM Diags v2. 6): A Python-based Diagnostics Package for Earth System Models Evaluation](#). *Geoscientific Model Development* 2022, 1--35.
 
-Jourdain, N. C., **X. Asay-Davis**, T. Hattermann, F. Straneo, H. Seroussi, C. M. Little, and S. Nowicki (2020). [A Protocol for Calculating Basal Melt Rates in the ISMIP6 Antarctic Ice Sheet Projections](https://doi.org/10.5194/tc-14-3111-2020). *The Cryosphere* 14(9), 3111-34.
+Golaz, J., Van Roekel, L. P., Zheng, X., Roberts, A. F., Wolfe, J. D., Lin, W., Bradley, A. M., et al. (2022). [The DOE E3SM model version 2: Overview of the physical model and initial model evaluation](#). *Journal of Advances in Modeling Earth Systems* 14, e2022MS003156.
 
-Nowicki, S., H. Goelzer, H. Seroussi, A. J. Payne, W. H. Lipscomb, A. Abe-Ouchi, C. Agosta, et al. (2020). [Experimental Protocol for Sea Level Projections from ISMIP6 Stand-Alone Ice Sheet Models](https://doi.org/10.5194/tc-14-2331-2020). *The Cryosphere* 14(7), 2331-68. 
+Edwards, T. L., Nowicki, S., Marzeion, B., Hock, R., Goelzer, H., Seroussi, H., Jourdain, N. C., et al. (2021). [Projected land ice contributions to twenty-first-century sea level rise](#). *Nature* 593, 74--82.
 
-Seroussi, H., S. Nowicki, A. J. Payne, H. Goelzer, W. H. Lipscomb, A. Abe-Ouchi, C. Agosta, et al. (2020). [ISMIP6 Antarctica: A Multi-Model Ensemble of the Antarctic Ice Sheet Evolution over the 21st Century](https://doi.org/10.5194/tc-14-3033-2020). *The Cryosphere* 14(9), 3033-70.
+Payne, A. J., Nowicki, S., Abe-Ouchi, A., Agosta, C., Alexander, P., Albrecht, T., Asay-Davis, X., et al. (2021). [Future sea level change under coupled model intercomparison project phase 5 and phase 6 scenarios from the Greenland and Antarctic ice sheets](#). *Geophysical Research Letters* 48, e2020GL091741.
 
-Zhang, T, S. F. Price, M. J. Hoffman, M. Perego, and **X. Asay-Davis** (2020). [Diagnosing the Sensitivity of Grounding-Line Flux to Changes in Sub-Ice-Shelf Melting](https://doi.org/10.5194/tc-14-3407-2020). *The Cryosphere* 14(10), 3407-24.
+Wong, M. H., Marcus, P. S., Simon, A. A., de Pater, I., Tollefson, J. W., Asay-Davis, X. (2021). [Evolution of the horizontal winds in Jupiter's Great Red Spot from one Jovian year of HST/WFC3 maps](#). *Geophysical Research Letters* 48, e2021GL093982.
 
-Hoffman, M. J., **X. Asay-Davis**, S. Price, J. Fyke, and M. Perego. (2019). [Effect of subshelf melt variability on sea level rise contribution from Thwaites Glacier, Antarctica](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019JF005155). *JGR: Earth Surface*, 124.
+Begeman, C. B., Asay-Davis, X., Van Roekel, L. (2021). [Ice-shelf ocean boundary layer dynamics from large-eddy simulations](#). *The Cryosphere* 2021, 1--27.
 
-Golaz, J. C., P. M. Caldwell, L. P. Van Roekel, M. R. Petersen et al. (2019). [The DOE E3SM coupled model version 1: Overview and evaluation at standard resolution](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018MS001603). *JAMES*, 11, 2089--2129.
+Gwyther, D. E., Kusahara, K., Asay-Davis, X. S., Dinniman, M. S., Galton-Fenzi, B. K. (2020). [Vertical processes and resolution impact ice shelf basal melting: A multi-model study](#). *Ocean Modelling* 147, 101569.
 
-Petersen, M., **X. Asay-Davis**, A. Berres, D. Comeau, N. Feige, D. Jacobsen, P. Jones, M. Maltrud, T. Ringler, G. Streletz, A. Turner, L. Van Roekel, M. Veneziani, J. Wolfe, P. Wolfram and J. Woodring. (2018). [An evaluation of the ocean and sea ice climate of E3SM using MPAS and interannual CORE-II forcing](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018MS001373).  *JAMES*, 11, 1438-1458.
+Jeong, H., Asay-Davis, X. S., Turner, A. K., Comeau, D. S., Price, S. F., Abernathey, R. P., Veneziani, M., et al. (2020). [Impacts of ice-shelf melting on water-mass transformation in the Southern Ocean from E3SM simulations](#). *Journal of Climate* 33, 5787--5807.
 
-Pattyn, F., C. Ritz, E. Hanna, **X. Asay-Davis**, R. DeConto, G. Durand, L. Favier, et al. (2018). [The Greenland and Antarctic Ice Sheets under 1.5&deg;C Global Warming](https://www.nature.com/articles/s41558-018-0305-8). *Nature Climate Change*, November, 8, 1053-1061.
+Jourdain, N. C., Asay-Davis, X., Hattermann, T., Straneo, F., Seroussi, H., Little, C. M., Nowicki, S. (2020). [A protocol for calculating basal melt rates in the ISMIP6 Antarctic ice sheet projections](#). *The Cryosphere* 14, 3111--3134.
 
-R. Reese, T. Albrecht, M. Mengel, **X. Asay-Davis**, and R. Winkelmann (2018): [Antarctic sub-shelf melt rates via PICO](https://www.the-cryosphere.net/12/1969/2018/tc-12-1969-2018.html), *The Cryosphere*, 12(6), 1969-1985.
+Seroussi, H., Nowicki, S., Payne, A. J., Goelzer, H., Lipscomb, W. H., Abe Ouchi, A., Agosta, C., et al. (2020). [ISMIP6 Antarctica: a multi-model ensemble of the Antarctic ice sheet evolution over the 21 st century](#). *The Cryosphere* 2020, 1--54.
 
-**X. S. Asay-Davis**, N. C. Jourdain, Y. Nakayama (2017). ([Developments in Simulating and Parameterizing Interactions Between the Southern Ocean and the Antarctic Ice Sheet](https://link.springer.com/article/10.1007/s40641-017-0071-0). *Current Climate Change Reports* 3(4), 316-329. 
+Cornford, S. L., Seroussi, H., Asay-Davis, X. S., Gudmundsson, G. H., Arthern, R., Borstad, C., Christmann, J., et al. (2020). [Results of the third marine ice sheet model intercomparison project (MISMIP+)](https://doi.org/10.5194/tc-14-2283-2020). *The Cryosphere* 14, 2283–2301.
 
-M. S. Dinniman, **X. S. Asay-Davis**, B. K. Galton-Fenzi, P. R. Holland, A. Jenkins, and R. Timmermann (2016). [Modeling Ice Shelf/Ocean Interaction in Antarctica: A Review](http://tos.org/oceanography/article/modeling-ice-shelf-ocean-interaction-in-antarctica-a-review). *Oceanography*, 29(4), 144-153. 
+Lipscomb, W. H., Leguy, G. R., Jourdain, N. C., Asay-Davis, X. S., Seroussi, H., Nowicki, S. (2020). [ISMIP6 projections of ocean-forced Antarctic Ice Sheet evolution using the Community Ice Sheet Model](#). *The Cryosphere Discussions* 2020, 1--28.
 
-**X. S. Asay-Davis**, S.L. Cornford, G. Durand, B.K. Galton-Fenzi, R.M. Gladstone, G.H. Gudmundsson, T. Hattermann, D.M. Holland, D. Holland, P.R. Holland, D.F. Martin, D. P. Mathiot, F. Pattyn, and H. Seroussi (2016). [Experimental design for three interrelated marine ice sheet and ocean model intercomparison projects: MISMIP v. 3 (MISMIP+), ISOMIP v. 2 (ISOMIP+) and MISOMIP v. 1 (MISOMIP1)](https://www.geosci-model-dev.net/9/2471/2016/). *Geoscientific Model Development*, 9(7), 2471-2497.
+Leguy, G. R., Lipscomb, W. H., Asay-Davis, X. S. (2020). [Marine ice-sheet experiments with the Community Ice Sheet Model](#). *The Cryosphere Discussions* 2020, 1--33.
 
-G.R. Leguy, **X.S. Asay-Davis**, W.H. Lipscomb (2014). [Parameterization of basal friction near grounding lines in a one-dimensional ice sheet model](https://www.the-cryosphere.net/8/1239/2014/). *The Cryosphere*, 8(4), 1239-1259.
+Nowicki, S., Payne, A. J., Goelzer, H., Seroussi, H., Lipscomb, W. H., Abe-Ouchi, A., Agosta, C., et al. (2020). [Experimental protocol for sealevel projections from ISMIP6 standalone ice sheet models](#). *The Cryosphere* 2020, 1--40.
 
-P.S. Marcus, **X. Asay-Davis**, M.H. Wong, I. de Pater (2012). [Jupiter's New Red Oval: Dynamics, Color, and Relationship to Jovian Climate Change](http://heattransfer.asmedigitalcollection.asme.org/article.aspx?articleid=1662704). *Journal of Heat Transfer*, 135(1), 011007.
+Zhang, T., Price, S. F., Hoffman, M. J., Perego, M., Asay-Davis, X. (2020). [Diagnosing the sensitivity of grounding line flux to changes in sub-ice shelf melting](#). *The Cryosphere* 2020, 1--26.
 
-M.H. Wong, P.S. Marcus, I. de Pater, **X. Asay-Davis**, C.Y. Go (2011). [Vertical structure of Jupiter's Oval BA before and after it reddened: What changed?](https://www.sciencedirect.com/science/article/pii/S0019103511002508) *Icarus*, 215(1), Pages 211-225.
+Petersen, M. R., Asay-Davis, X. S., Berres, A. S., Chen, Q., Feige, N., Hoffman, M. J., Jacobsen, D. W., et al. (2019). [An evaluation of the ocean and sea ice climate of E3SM using MPAS and interannual CORE-II forcing](#). *Journal of Advances in Modeling Earth Systems* 11, 1438--1458.
 
-**X.S. Asay-Davis**, P.S. Marcus, M.H. Wong, I. de Pater (2011). [Changes in Jupiter's zonal velocity between 1979 and 2008](https://www.sciencedirect.com/science/article/pii/S0019103510004379), *Icarus*. 211(2), 1215-1232.
+Golaz, J., Caldwell, P. M., Van Roekel, L. P., Petersen, M. R., Tang, Q., Wolfe, J. D., Abeshu, G., et al. (2019). [The DOE E3SM coupled model version 1: Overview and evaluation at standard resolution](#). *Journal of Advances in Modeling Earth Systems* 11, 2089--2129.
 
-A.T. Lee, E. Chiang, **X. Asay-Davis**, J. Barranco (2010). [Forming Planetesimals by Gravitational Instability. I. The Role of the Richardson Number in Triggering the Kelvin-Helmholtz Instability](http://iopscience.iop.org/article/10.1088/0004-637X/718/2/1367), *The Astrophysical Journal*, 718(2), 1367.
+Hoffman, M. J., Asay-Davis, X., Price, S. F., Fyke, J., Perego, M. (2019). [Effect of subshelf melt variability on sea level rise contribution from Thwaites Glacier, Antarctica](#). *Journal of Geophysical Research: Earth Surface* 124, 2798--2822.
 
-A.T. Lee, E. Chiang, **X. Asay-Davis**, J. Barranco (2010). [Forming Planetesimals by Gravitational Instability: II. How Dust Settles to its Marginally Stable State](http://iopscience.iop.org/article/10.1088/0004-637X/725/2/1938), *The Astrophysical Journal*, 725(2), 1938-1954. 
+Reese, R., Albrecht, T., Mengel, M., Asay-Davis, X., Winkelmann, R. (2018). [Antarctic sub-shelf melt rates via PICO](#). *The Cryosphere* 12, 1969--1985.
 
-**X.S. Asay-Davis**, P.S. Marcus, M.H. Wong, I. de Pater (2009). [Jupiter's shrinking Great Red Spot and steady Oval BA: Velocity measurements with the "Advection Corrected Correlation Image Velocimetry" automated cloud-tracking method](https://www.sciencedirect.com/science/article/pii/S0019103509001882), *Icarus*. 203(1), 164-188.
+Pattyn, F., Ritz, C., Hanna, E., Asay-Davis, X., DeConto, R., Durand, G., Favier, L., et al. (2018). [The Greenland and Antarctic ice sheets under 1.5 C global warming](#). *Nature climate change* 8, 1053--1061.
 
-S. Shetty, **X.S. Asay-Davis** and P.S. Marcus (2007). [On the interaction of Jupiter's Great Red Spot and zonal jet streams](https://journals.ametsoc.org/doi/abs/10.1175/2007JAS2097.1). *Journal of Atmospheric Sciences*. 64, 4432-4444. 
+Asay-Davis, X. S., Jourdain, N. C., Nakayama, Y. (2017). [Developments in simulating and parameterizing interactions between the Southern Ocean and the Antarctic ice sheet](#). *Current Climate Change Reports* 3, 316--329.
 
+Asay-Davis, X. S., Cornford, S. L., Durand, G., Galton-Fenzi, B. K., Gladstone, R. M., Gudmundsson, G. H., Hattermann, T., et al. (2016). [Experimental design for three interrelated marine ice sheet and ocean model intercomparison projects: MISMIP v. 3 (MISMIP+), ISOMIP v. 2 (ISOMIP+) and MISOMIP v. 1 (MISOMIP1)](#). *Geoscientific Model Development* 9, 2471--2497.
+
+Dinniman, M. S., Asay-Davis, X. S., Galton-Fenzi, B. K., Holland, P. R., Jenkins, A., Timmermann, R. (2016). [Modeling ice shelf/ocean interaction in Antarctica: A review](#). *Oceanography* 29, 144--153.

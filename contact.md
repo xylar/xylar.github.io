@@ -4,15 +4,15 @@ title: Contact
 permalink: /contact/
 ---
 
-![Los Alamos, NM](https://upload.wikimedia.org/wikipedia/commons/7/7f/Los_Alamos_Aerial.jpg)
+![Heidelberg](https://upload.wikimedia.org/wikipedia/commons/9/9f/Heidelberg_DE_%2818778809608%29.jpg)
 
 ## Email
 
-xylar@lanl.gov
+xylarstorm@gmail.com
 
-## Twitter
+## Bluesky
 
-AsayDavis
+@xylarstorm.bsky.social‬
 
 ## Github
 
